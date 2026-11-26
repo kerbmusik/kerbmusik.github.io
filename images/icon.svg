@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Kerbmusik</title>
+  <rect width="512" height="512" rx="112" fill="#f6ecd6"/>
+  <g transform="translate(119,51) scale(2.3)">
+    <rect x="56" y="38" width="7" height="140" rx="2" fill="#6b4423"/>
+    <polygon points="59.5,4 47,26 53,26 42,48 77,48 66,26 72,26" fill="#2f6b3a"/>
+    <g fill="none" stroke-linecap="round" stroke-width="4.5">
+      <path d="M 30,62 C 20,84 32,100 18,120 S 14,146 6,158" stroke="#8f1d21"/>
+      <path d="M 42,66 C 36,92 46,110 36,132 S 34,160 30,172" stroke="#e9c46a"/>
+      <path d="M 52,68 C 50,94 58,114 52,138 S 52,160 50,168" stroke="#2b4c7e"/>
+      <path d="M 67,68 C 69,94 61,114 67,138 S 67,160 69,168" stroke="#8f1d21"/>
+      <path d="M 77,66 C 83,92 73,110 83,132 S 85,160 89,172" stroke="#2b4c7e"/>
+      <path d="M 89,62 C 99,84 87,100 101,120 S 105,146 113,158" stroke="#e9c46a"/>
+    </g>
+    <ellipse cx="59.5" cy="60" rx="33" ry="8" fill="none" stroke="#2f6b3a" stroke-width="7"/>
+    <g fill="#8f1d21">
+      <circle cx="28" cy="61" r="2.6"/><circle cx="40" cy="67" r="2.6"/><circle cx="52" cy="69" r="2.6"/>
+      <circle cx="67" cy="69" r="2.6"/><circle cx="79" cy="67" r="2.6"/><circle cx="91" cy="61" r="2.6"/>
+    </g>
+  </g>
+</svg>
